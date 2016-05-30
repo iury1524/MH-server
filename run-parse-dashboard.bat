@@ -1,0 +1,1 @@
+parse-dashboard --appId 786745FDFVFDV5657657 --masterKey 898676554FGTGE344YTGTRGTR --serverURL "http://localhost:1337/parse"
